@@ -1,1 +1,1 @@
-This is my first bash script
+path name of the current working directory
